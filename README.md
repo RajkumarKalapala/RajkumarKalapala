@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Rajkumar 👋
 
-<!--
-**RajkumarKalapala/RajkumarKalapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer who enjoys writing clean code and solving complex problems. My technical sweet spot lies in backend development and data-driven applications.
 
-Here are some ideas to get you started:
+What I bring to the table:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Core Stack: Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn), Node.js + Express, and Java (OOPs).
+
+    Web & Systems: HTML/CSS/JavaScript, plus a solid comfort level navigating Linux environments.
+
+    Career Focus: Actively exploring Software Engineer and Trainee opportunities anywhere in India. I'm ready to dive in, learn quickly, and contribute to a team.
+
+Let's connect:
+
+    📫 Email: rajkumarkalapala@outlook.com
+
+    💼 LinkedIn: www.linkedin.com/in/rajkumar-kalapala-54927a37a
